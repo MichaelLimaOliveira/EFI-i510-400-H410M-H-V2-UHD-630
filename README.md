@@ -53,3 +53,9 @@ If you are ready, then might as well test it!
 ## Updates
 
 This repository will be updated regularly every new macOS Versions. If there are no updates, then this EFI works on that version. Though, I may get tired of updating this in the near future so might as well try to fix issues on your own.
+
+## Props
+
+Gabriel Luchina repository 10th Base EFI
+
+Visite their Github: https://github.com/luchina-gabriel
